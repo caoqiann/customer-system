@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "name": "Howard",
+      "phone": "123-55555",
+      "email": "howard@gmail.com",
+      "age": "25",
+      "profile": "Raj's friend",
+      "id": 1
+    },
+    {
+      "name": "Panny",
+      "phone": "125-9962",
+      "email": "panny@bazinga.com",
+      "age": "20",
+      "profile": "panny",
+      "id": 4
+    },
+    {
+      "name": "Sherdon",
+      "phone": "188-8888",
+      "email": "sherdon@bazinga.com",
+      "age": "10",
+      "profile": "happy sherdon",
+      "id": 5
+    },
+    {
+      "name": "Raj",
+      "phone": "163-9999",
+      "email": "raj@indian.com",
+      "age": "25",
+      "profile": "raj was born in Indian~",
+      "id": 6
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple is good!"
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "description": "Banana is good!"
+    },
+    {
+      "id": 3,
+      "name": "Peach",
+      "description": "Peach is good!"
+    }
+  ]
+}
